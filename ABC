@@ -1,0 +1,23 @@
+onderzeichen_1:
+ !"#$%'()*+,-./
+
+Ziffern:
+0123456789
+
+Sonderzeichen_2:
+:;<=>?@
+
+Buchstaben groß:
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+Sonderzeichen_3:
+[\]^_`
+
+Buchstaben klein:
+abcdefghijklmnopqrstuvwxyz
+
+Sonderzeichen_4:
+{|}~
+
+Umlaute:
+ÄÖÜäöüß
