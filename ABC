@@ -1,23 +1,22 @@
-Sonderzeichen_1:
+Sonderzeichen1:
  !"#$%'()*+,-./
-
 Ziffern:
 0123456789
 
-Sonderzeichen_2:
+Sonderzeichen2:
 :;<=>?@
 
-Buchstaben groß:
+Buchst.  gross:
 ABCDEFGHIJKLMNOPQRSTUVWXYZ
 
-Sonderzeichen_3:
+Sonderzeichen3:
 [\]^_`
 
-Buchstaben klein:
+Buchst.  klein:
 abcdefghijklmnopqrstuvwxyz
 
-Sonderzeichen_4:
+Sonderzeichen4:
 {|}~
 
-Umlaute:
+Umlaute       :       :
 ÄÖÜäöüß
