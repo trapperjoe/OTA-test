@@ -1,22 +1,25 @@
 Sonderzeichen1:
  !"#$%'()*+,-./
-Ziffern:
-0123456789
+
+Ziffern       :
+0123456789     
 
 Sonderzeichen2:
-:;<=>?@
+:;<=>?@        
 
 Buchst.  gross:
-ABCDEFGHIJKLMNOPQRSTUVWXYZ
+ABCDEFGHIJKLMNO
+PQRSTUVWXYZ    
 
 Sonderzeichen3:
-[\]^_`
+[\]^_`         
 
 Buchst.  klein:
-abcdefghijklmnopqrstuvwxyz
+abcdefghijklmno
+pqrstuvwxyz    
 
 Sonderzeichen4:
-{|}~
+{|}~           
 
-Umlaute       :       :
+Umlaute       :
 ÄÖÜäöüß
